@@ -1,3 +1,15 @@
+:root {
+    --bg-primary: #0f0a0a;
+    --bg-secondary: #1a1015;
+    --text-primary: #ffffff;
+    --text-secondary: #e5c5d1;
+    --text-muted: #8a7179;
+    --accent: #ff006e;
+    --accent-hover: #ff4d94;
+    --border: #2e1a25;
+    --card-bg: #1c1218;
+}
+
 #reloj{
     font-family: sans-serif;
     font-size: 60PX;
